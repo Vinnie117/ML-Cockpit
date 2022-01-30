@@ -23,7 +23,7 @@ Modeling prices or returns?
   - reason: map unlabeled data points to a collection of labeled observations and infer label of that new data point
   - if features are not stationary, the mapping does not work reliably for large sample number
   - however, stationarity is necessary but does not guarantee high performance of ML
--Solution: Cointegration
+- Solution: Cointegration
   - explore fractional differencing of time series -> De Prado
   - in literature, typically first differences (adjacent data points) is used -> but why would this be optimal?
     - n-step differencing is arbitrary
