@@ -34,6 +34,7 @@ Sources:
 - https://stats.stackexchange.com/questions/497877/forecasting-prices-vs-returns-by-deep-learning
 - https://quant.stackexchange.com/questions/489/correlation-between-prices-or-returns
 - https://quant.stackexchange.com/questions/16481/why-do-we-usually-model-returns-and-not-prices
+- https://www.youtube.com/watch?v=vvTKjm94Ars and https://www.youtube.com/watch?v=q5wbOSjbVW4
 
 
 
