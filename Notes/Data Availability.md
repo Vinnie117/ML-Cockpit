@@ -11,6 +11,7 @@ Bitcoin
 - Is it possible to use daily with hourly data in the same training data frame?
   - by assigning each hourly value the value of the day
   -  what are the implications for the models?
+  -  -> multicollinearity? 
 
 
 
