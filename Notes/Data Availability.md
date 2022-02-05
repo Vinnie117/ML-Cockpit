@@ -13,6 +13,12 @@ Bitcoin
   -  what are the implications for the models?
   -  -> multicollinearity? 
 
+Stock market data
+- Use Yahoo Finance as data source
+- longer time horizon -> more data available
+- e.g. SPY since 1993 -> roughly 7k data points with daily frequency
+- strictly: still not enough data
+
 
 
 
