@@ -19,6 +19,23 @@ Stock market data
 - e.g. SPY since 1993 -> roughly 7k data points with daily frequency
 - strictly: still not enough data
 
+Weather data
+- https://github.com/earthobservations/wetterdienst
+- enough data for machine learning
+  - Historical (last ~300 years), recent (500 days to yesterday), now (yesterday up to last hour)
+  - Every minute to yearly resolution
+  - Time series of stations in Germany
+- also in time series format
+
+
+
+-> Build a ML Cockpit that is not specific to one use case?
+- Cockpit takes data as input and gives prediction as output
+- what about use case specific data preprocessing? Data transformations?
+  - -> provide the necessary tools for data preprocessing
+  - user can then select what to do exactly
+-> Need to decide whether to tackle one specific use case or build a generalized tool
+  - e.g. backtesting and monitoring takes significant amount of time
 
 
 
